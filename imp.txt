@@ -1,0 +1,13 @@
+https://www.ethereum.org/cli
+
+https://goethereumbook.org/ethereum-development-with-go.pdf
+
+https://ethereum.gitbooks.io/frontier-guide/content/developers.html
+
+
+
+https://medium.com/@chim/ethereum-how-to-setup-a-local-test-node-with-initial-ether-balance-using-geth-974511ce712
+
+https://ethereum.gitbooks.io/frontier-guide/content/connecting.html
+
+https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts
