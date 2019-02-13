@@ -11,3 +11,13 @@ https://medium.com/@chim/ethereum-how-to-setup-a-local-test-node-with-initial-et
 https://ethereum.gitbooks.io/frontier-guide/content/connecting.html
 
 https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts
+
+
+
+
+https://medium.com/@chim/ethereum-how-to-setup-a-local-test-node-with-initial-ether-balance-using-geth-974511ce712
+https://hackernoon.com/hands-on-creating-your-own-local-private-geth-node-beginner-friendly-3d45902cc612
+
+https://arvanaghi.com/blog/how-to-set-up-a-private-ethereum-blockchain-using-geth/
+
+mist and geth
