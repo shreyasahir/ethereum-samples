@@ -21,3 +21,7 @@ https://hackernoon.com/hands-on-creating-your-own-local-private-geth-node-beginn
 https://arvanaghi.com/blog/how-to-set-up-a-private-ethereum-blockchain-using-geth/
 
 mist and geth
+
+
+
+https://kauri.io/article/60a36c1b17d645939f63415218dc24f9/creating-a-dapp-in-go-with-geth
